@@ -45,3 +45,4 @@ class Board:
 
         # Square Outline
         pg.draw.rect(self.game_window, Color.BLACK.value, pg.Rect((self.width // 9) - 5, 50, 325, 325), 5)
+
